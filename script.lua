@@ -5,14 +5,13 @@ _G.FishItConfig = _G.FishItConfig or {
      
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
-        ["Trade Timeout"] = 90, 
         ["Fish Name"] = {
             "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
             -- {Variant = "Leviathan Rage"}, -- Variant Only
             -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
         },
-
+        ["Trade Timeout"] = 90, 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
     },
