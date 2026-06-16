@@ -2,9 +2,10 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
         ["Auto Perfect"] = false,
         ["Random Result"] = false,
-
+     
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
+        ["Trade Timeout"] = 90, 
         ["Fish Name"] = {
             "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
