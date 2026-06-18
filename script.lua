@@ -11,7 +11,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
             -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
         },
-        ["Trade Timeout"] = 20, 
+        ["Trade Timeout"] = 15, 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
     },
@@ -43,10 +43,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
-        ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
+        ["Auto Element Rod"] = true,
+        ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -146,7 +146,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Tropical Grove"] = {"Astral Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
         },
         ["Endgame"] = "",
     },
