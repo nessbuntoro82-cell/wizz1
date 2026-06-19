@@ -49,8 +49,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
-            "Cryoshade Glider",
-            "Panther Eel",
+            "Elshark Gran Maja",
+            "King Jelly",
             "Queen Crab",
             "King Crab",
             "Giant Squid",
