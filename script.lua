@@ -60,6 +60,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Megalodon",
             "Skeleton Narwhal",
             "Worm Fish",
+            "Cryoshade Glider",
             
         },
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ancient Ruin",
