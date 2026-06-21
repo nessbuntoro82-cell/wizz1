@@ -11,7 +11,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
             -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
         },
-        ["Trade Timeout"] = 40, 
+        ["Trade Timeout"] = 35, 
         ["Auto Accept Trade"] = true,
         ["Auto Friend Request"] = true,
     },
