@@ -112,7 +112,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
+        ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
