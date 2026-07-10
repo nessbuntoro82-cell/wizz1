@@ -57,7 +57,6 @@ _G.FishItConfig = _G.FishItConfig or {
             "Giant Squid",
             "Blob Shark",
             "Ghost Shark",
-            "Megalodon",
             "Skeleton Narwhal",
             "Worm Fish",
             "Cryoshade Glider",
@@ -102,12 +101,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Start Farm"] = true,
+        ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
             "Megalodon Hunt",
-            "Ghost Shark Hunt",
-            "Shark Hunt",
             -- ["Ancient Lochness Monster"] = true,
         },
     },
@@ -119,7 +116,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enchant After X Stone"] = 25,
         ["Enchant List"] = {
             "SECRET Hunter",
-            "Reeler II",
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {
@@ -127,7 +123,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Cryoshade Glider",
         },
         ["Second Enchant List"] = {
-            "Reeler I",
+            "Stormhunter I",
         },
         ["Minimum Rod"] = "Element Rod",
     },
