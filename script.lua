@@ -110,7 +110,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = true,
+        ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
         ["Farm Until Enchant"] = true,
         ["Enchant After X Stone"] = 20,
@@ -120,8 +120,8 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
-            "Gladiator Shark",
             "Blob Shark",
+            "Gladiator Shark",
         },
         ["Second Enchant List"] = {
             "Stormhunter I",
