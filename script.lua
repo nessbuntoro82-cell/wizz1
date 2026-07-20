@@ -116,7 +116,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enchant After X Stone"] = 20,
         ["Enchant List"] = {
             "SECRET Hunter",
-            "Reeler II",
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
