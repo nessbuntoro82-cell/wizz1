@@ -47,6 +47,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Element Rod"] = true,
         ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
+        ["Auto Aetherion Bait"] = false,
+        ["Auto Divine Power"] = false,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
