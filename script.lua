@@ -177,3 +177,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FnDXueyi/list/refs/he
 
 _gkey = "BS-63D18159-BAB7C704"
 loadstring(game:HttpGet("https://monitor.blocksolve.site/get_script"))()
+
+getgenv().apikey = "zetsu-c2d64484ab5890ad"
+loadstring(game:HttpGet("https://zetsu.lol/s/loader.lua"))()
