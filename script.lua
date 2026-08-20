@@ -111,10 +111,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = true,
+        ["Auto Enchant"] = false,
         ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = true,
-        ["Farm Until Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
+        ["Farm Until Enchant"] = false,
         ["Enchant After X Stone"] = 15,
         ["Enchant List"] = {
             "SECRET Hunter",
