@@ -49,6 +49,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Diamond Rod"] = false,
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
+        ["Auto Fish Index"] = true,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
@@ -111,11 +112,11 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
+        ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = false,
-        ["Farm Until Enchant"] = false,
-        ["Enchant After X Stone"] = 15,
+        ["Evolved Roll Enchant"] = true,
+        ["Farm Until Enchant"] = true,
+        ["Enchant After X Stone"] = 20,
         ["Enchant List"] = {
             "SECRET Hunter",
         },
