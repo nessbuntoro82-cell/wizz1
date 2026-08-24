@@ -107,7 +107,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod","Ghostfinn Rod",
         ["Event List"] = {
-            "Mutant Runic Koi",
             "Elemental Event",
             -- ["Ancient Lochness Monster"] = true,
         },
