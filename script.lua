@@ -159,10 +159,11 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Endgame"] = "",
     },
-
-    ["ExtremeFpsBoost"] = false,
-    ["UltimatePerformance"] = false,
-    ["Disable3DRender"] = false,
+    
+    ["FPS Cap"] = 0,
+    ["ExtremeFpsBoost"] = true,
+    ["UltimatePerformance"] = true,
+    ["Disable3DRender"] = true,
     ["AutoRemovePlayer"] = true,
 
     ["AutoReconnect"] = false,
