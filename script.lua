@@ -112,11 +112,11 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
+        ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
         ["Farm Until Enchant"] = true,
-        ["Enchant After X Stone"] = 15,
+        ["Enchant After X Stone"] = 20,
         ["Enchant List"] = {
             "SECRET Hunter",
         },
@@ -155,7 +155,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Tropical Grove"] = {"Astral Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod"},
         },
         ["Endgame"] = "",
     },
