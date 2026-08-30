@@ -50,7 +50,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
         ["Auto Fish Index"] = false,
-        ["Unlock Elemental Island"] = true,
+        ["Unlock Elemental Island"] = false,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
