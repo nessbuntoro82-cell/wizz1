@@ -50,7 +50,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
         ["Auto Fish Index"] = false,
-        ["Unlock Elemental Island"] = false,
+        ["Unlock Elemental Island"] = true,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
@@ -164,8 +164,8 @@ _G.FishItConfig = _G.FishItConfig or {
     
     ["FPS Cap"] = 0,
     ["ExtremeFpsBoost"] = true,
-    ["UltimatePerformance"] = true,
-    ["Disable3DRender"] = true,
+    ["UltimatePerformance"] = false,
+    ["Disable3DRender"] = false,
     ["AutoRemovePlayer"] = true,
 
     ["AutoReconnect"] = false,
