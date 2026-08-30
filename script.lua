@@ -51,7 +51,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Divine Power"] = false,
         ["Auto Fish Index"] = false,
         ["Unlock Elemental Island"] = true,
-        ["Unlock Ancient Ruin"] = false,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
             "Elshark Gran Maja",
