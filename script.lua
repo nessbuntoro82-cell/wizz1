@@ -163,7 +163,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Endgame"] = "",
     },
     
-    ["FPS Cap"] = 0,
+    ["FPS Cap"] = 5,
     ["ExtremeFpsBoost"] = false,
     ["UltimatePerformance"] = false,
     ["Disable3DRender"] = true,
