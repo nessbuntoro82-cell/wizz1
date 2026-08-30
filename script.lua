@@ -104,15 +104,16 @@ _G.FishItConfig = _G.FishItConfig or {
             "Shiny Totem",
         },
     },
-    ["Event"] = {
+["Event"] = {
         ["Start Farm"] = true,
         ["Admin Event"] = false,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            "Elemental Event",
-            -- ["Ancient Lochness Monster"] = true,
+            ["Elemental Event"] = true,
+            ["Megalodon Hunt"] = false,
         },
     },
+    
     ["Enchant"] = {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
