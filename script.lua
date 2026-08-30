@@ -50,7 +50,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
         ["Auto Fish Index"] = false,
-        ["Unlock Elemental Island"] = false,
+        ["Unlock Elemental Island"] = true,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Gladiator Shark",
@@ -109,8 +109,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Admin Event"] = false,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            "Megalodon Hunt", = true,
-            "Elemental Event", = false,
+            "Megalodon Hunt", = false,
+            "Elemental Event", = true,
             -- ["Ancient Lochness Monster"] = true,
         },
     },
@@ -164,8 +164,8 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     
     ["FPS Cap"] = 0,
-    ["ExtremeFpsBoost"] = true,
-    ["UltimatePerformance"] = true,
+    ["ExtremeFpsBoost"] = false,
+    ["UltimatePerformance"] = false,
     ["Disable3DRender"] = true,
     ["AutoRemovePlayer"] = true,
 
