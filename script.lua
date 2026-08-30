@@ -109,7 +109,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Admin Event"] = false,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            "Megalodon Hunt",
+            "Megalodon Hunt", = true,
+            "Elemental Event", = false,
             -- ["Ancient Lochness Monster"] = true,
         },
     },
