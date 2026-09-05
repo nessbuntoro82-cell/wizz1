@@ -7,6 +7,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
+            "Mutant Runic Koi",
             {Name = "Ruby", Variant = "Gemstone"},
             -- {Variant = "Leviathan Rage"}, -- Variant Only
             -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
